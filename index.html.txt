@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vanta Collective</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <section class="hero">
+        <div class="overlay"></div>
+        <h1>VANTA COLLECTIVE</h1>
+        <p>Forged in the dark.</p>
+    </section>
+
+    <section class="block">
+        <h2>What Vanta Is</h2>
+        <p>Vanta Collective is a multi‑disciplinary studio creating work with weight — film, art, and design shaped by precision and purpose.</p>
+    </section>
+
+    <section class="block">
+        <h2>The Philosophy</h2>
+        <p>Gravity. Craft. Truth. Collective. Presence. Expression.</p>
+    </section>
+
+    <section class="block">
+        <h2>What We Make</h2>
+        <p>Films. Documentaries. Visual Art. Design Projects. Creative Direction. Multi‑disciplinary Collaborations.</p>
+    </section>
+
+    <section class="block">
+        <h2>Why a Collective</h2>
+        <p>Because the strongest work comes from community — from multiple disciplines and voices colliding.</p>
+    </section>
+
+    <section class="block">
+        <h2>Invitation</h2>
+        <p>Step into the dark. Shape what comes next.</p>
+    </section>
+
+</body>
+</html>
