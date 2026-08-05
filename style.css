@@ -167,3 +167,38 @@ body {
     opacity: 1;
     transform: translateY(0);
 }
+@media (max-width: 768px) {
+    h1, h2 {
+        font-size: 28px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .block {
+        padding-left: 20px;
+        height: auto;
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+}
+@media (max-width: 768px) {
+    .block {
+        background-attachment: scroll;
+    }
+}
+@media (max-width: 768px) {
+    .nav {
+        padding: 15px 20px;
+    }
+
+    .nav a {
+        margin-left: 15px;
+        font-size: 14px;
+    }
+
+    .logo {
+        font-size: 16px;
+    }
+}
