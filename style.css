@@ -7,6 +7,36 @@ body {
 }
 
 /* HERO SECTION */
+.nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(6px);
+}
+
+.logo {
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.nav a {
+    color: #ddd;
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.nav a:hover {
+    color: #c22;
+}
 
 .hero {
     height: 100vh;
