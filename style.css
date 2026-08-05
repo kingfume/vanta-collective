@@ -86,6 +86,35 @@ body {
     max-width: 600px;
     line-height: 1.6;
 }
+.block {
+    height: 80vh;
+    background: url('assets/vanta-bg-section-1.jpg') center/cover no-repeat;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 60px;
+    color: #fff;
+}
+#work {
+    background: url('assets/vanta-bg-section-2.jpg') center/cover no-repeat;
+}
+
+#contact {
+    background: url('assets/vanta-texture-1.jpg') center/cover no-repeat;
+}
+
+.block h2 {
+    font-size: 40px;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+}
+
+.block p {
+    max-width: 500px;
+    font-size: 18px;
+    opacity: 0.9;
+}
 .footer {
     background: #000;
     padding: 60px;
